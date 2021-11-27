@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-k1skwi2uwa1ccsde!j)=vk&jvzg*x@lg(5cd6msc12@w#p8ia^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['skillhub-harsha.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['skillhub-harsha.herokuapp.com','127.0.0.1']
 
 
 # Application definition
