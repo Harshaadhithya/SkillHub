@@ -6,7 +6,6 @@ charset-normalizer==2.0.7
 Django==3.1.13
 django-phonenumber-field==5.2.0
 django-storages==1.12.3
-django-twilio==0.13.1.post0
 djangorestframework==3.12.4
 djangorestframework-simplejwt==5.0.0
 gunicorn==20.1.0
@@ -23,6 +22,5 @@ s3transfer==0.5.0
 six==1.16.0
 South==1.0.2
 sqlparse==0.4.1
-twilio==6.63.2
 urllib3==1.26.7
 whitenoise==5.3.0
